@@ -4,21 +4,19 @@ Welcome to the Colorus Fashion Store GitHub Profile Site!
 *Colorus Fashion Store is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://colorusbd.github.io).*
 ![Preview of Colorus Fashion Store](preview.png)
 
-Hi, [Colorus Fashion Store](https://armandsl.github.io) here.
+Hi, [Colorus Fashion Store GitHub Page Site](https://colorusbd.github.io) here.
 ================================
 
-## Context for Colorus Fashion Store
+## Context for Colorus Fashion Store GitHub Page Site
 
 ## Profile
 - Name: Colorus Fashion Store
 - Location: Dhaka, Bangladesh
 - Languages: English (Primary), Bengali (Secondary)
 - Timezone: Asia/Dhaka
-- Company: ZuhaWorld Social Impact
-- Job Title: CEO
-- Pronouns: he/him/his
+- Company: **Colorus Fashion Store**
 - Interests: photography, traveling, reading, writing, learning, programming, coding
-- About Me: Hi, this is (এম এ জোহা) Colorus Fashion Store, I’m a writer and photographer from Dhaka, Bangladesh. Professionally I'm a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh. My favorite quote is: “One can't help everyone, but everyone can help someone.” 
+- About Us: Hi, this is Colorus Fashion Store is a non-pro t organization in Mirpur, Dhaka. COLORUS offers a diverse range of stylish clothing, ensuring everyone find a look that feels uniquely theirs. Our mission is to provide accessible, stylish, and budget-friendly fashion choices, enhancing well-being through attire.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -36,20 +34,20 @@ Welcome to Colorus Fashion Store GitHub Profile Site!
 This site is used Minimal Jekyll theme for GitHub Pages. Help us make these docs or pages great!
 
 ## About
-- **About**: A Little Introduction About My Profile.
-- **About Me**: Know About Me
+- **About**: A Little Introduction About Our Profile.
+- **About Us**: Know About Us
 
 ## Installation
-To get started with the armanhrm.github.io, follow these steps:
+To get started with the colorusbd.github.io, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/armandsl/armanhrm.github.io.git
+   git clone https://github.com/colorusbd/colorusbd.github.io.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd armandsl.github.io
+   cd colorus.github.io
    ```
 
 3. **Install dependencies**:
@@ -80,18 +78,15 @@ Please ensure your code follows our [coding standards](link-to-coding-standards)
 This project is licensed under the [MIT License](LICENSE).
 
 ## Online Presence
-Gravatar Profile: [Colorus Fashion Store](https://gravatar.com/zuhaworld)
-WordPress: [ZuhaWorld Social Impact](https://zuhaworld.com)
-Flickr: [Colorus Fashion Store](https://www.flickr.com/people/zuhaworld)
-Tumblr: [ZuhaWorld](http://zuhaworld.tumblr.com)
-Mastodon: [Colorus Fashion Store](https://mastodon.social/@zwarman)
-GitHub: [Colorus Fashion Store](https://github.com/armandsl)
-YouTube Channel: [ZuhaWorld Social Impact](https://www.youtube.com/@zuhaworld)
+WordPress: [Colorus Fashion Store](https://colorus.com.bd)
+Website: [Colorus](http://colorus.tumblr.com)
+GitHub: [Colorus Fashion Store](https://github.com/colorus)
+YouTube Channel: [Colorus](https://www.youtube.com/@colorus)
 
 ## Contact
-For any questions, feel free to [reach out to the team](mailto:info@zuha.site) or [me](https://armandsl.github.io/contact/).
+For any questions, feel free to [reach out to the team](mailto:info@store.color.us.) or [me](https://colorusbd.github.io/contact/).
 
 ## Download
 Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project.
 github:
-  [Download](https://github.com/armandsl/armandsl.github.io/zipball/main)
+  [Download](https://github.com/colorusbd/colorusbd.github.io/zipball/main)
