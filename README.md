@@ -1,17 +1,16 @@
-# store-colorus-com-bd
-Welcome to the Colorus Fashion Store
-GitHub Profile Site!
+# [Colorus Fashion Store GitHub Page Site](https://colosusbd.github.com.io)
+Welcome to the Colorus Fashion Store GitHub Profile Site!
 
-*M A Zuha is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://armandsl.github.io).*
-![Preview of M A Zuha](preview.png)
+*Colorus Fashion Store is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://colorusbd.github.io).*
+![Preview of Colorus Fashion Store](preview.png)
 
-Hi, [M A Zuha](https://armandsl.github.io) here.
+Hi, [Colorus Fashion Store](https://armandsl.github.io) here.
 ================================
 
-## Context for M A Zuha
+## Context for Colorus Fashion Store
 
 ## Profile
-- Name: M A Zuha
+- Name: Colorus Fashion Store
 - Location: Dhaka, Bangladesh
 - Languages: English (Primary), Bengali (Secondary)
 - Timezone: Asia/Dhaka
@@ -19,7 +18,7 @@ Hi, [M A Zuha](https://armandsl.github.io) here.
 - Job Title: CEO
 - Pronouns: he/him/his
 - Interests: photography, traveling, reading, writing, learning, programming, coding
-- About Me: Hi, this is (এম এ জোহা) M A Zuha, I’m a writer and photographer from Dhaka, Bangladesh. Professionally I'm a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh. My favorite quote is: “One can't help everyone, but everyone can help someone.” 
+- About Me: Hi, this is (এম এ জোহা) Colorus Fashion Store, I’m a writer and photographer from Dhaka, Bangladesh. Professionally I'm a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh. My favorite quote is: “One can't help everyone, but everyone can help someone.” 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -33,7 +32,7 @@ Hi, [M A Zuha](https://armandsl.github.io) here.
 - [Download](#download)
 
 ## Introduction
-Welcome to M A Zuha GitHub Profile Site!
+Welcome to Colorus Fashion Store GitHub Profile Site!
 This site is used Minimal Jekyll theme for GitHub Pages. Help us make these docs or pages great!
 
 ## About
@@ -81,12 +80,12 @@ Please ensure your code follows our [coding standards](link-to-coding-standards)
 This project is licensed under the [MIT License](LICENSE).
 
 ## Online Presence
-Gravatar Profile: [M A Zuha](https://gravatar.com/zuhaworld)
+Gravatar Profile: [Colorus Fashion Store](https://gravatar.com/zuhaworld)
 WordPress: [ZuhaWorld Social Impact](https://zuhaworld.com)
-Flickr: [M A Zuha](https://www.flickr.com/people/zuhaworld)
+Flickr: [Colorus Fashion Store](https://www.flickr.com/people/zuhaworld)
 Tumblr: [ZuhaWorld](http://zuhaworld.tumblr.com)
-Mastodon: [M A Zuha](https://mastodon.social/@zwarman)
-GitHub: [M A Zuha](https://github.com/armandsl)
+Mastodon: [Colorus Fashion Store](https://mastodon.social/@zwarman)
+GitHub: [Colorus Fashion Store](https://github.com/armandsl)
 YouTube Channel: [ZuhaWorld Social Impact](https://www.youtube.com/@zuhaworld)
 
 ## Contact
