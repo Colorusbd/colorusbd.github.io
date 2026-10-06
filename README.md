@@ -3,13 +3,13 @@ Welcome to the Colorus Fashion Store GitHub Profile Site!
 
 *You can [preview after applying this theme what it looks like](https://colorusbd.github.io).*
 
-Hi, 
-![Colorus Fashion Store GitHub Site](https://colorusbd.github.io) here.
+We built this site with GitHub Pages. Furthermore, please contact us for any help.
 ================================
 
 ## Context for Colorus Fashion Store GitHub Site
 
 ## Profile
+![Avatar](https://avatars.githubusercontent.com/u/338278678?v=4&size=32)
 - Name: Colorus Fashion Store
 - Location: Dhaka, Bangladesh
 - Languages: English (Primary), Bengali (Secondary)
