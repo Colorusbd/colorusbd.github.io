@@ -1,10 +1,10 @@
 # [Colorus Fashion Store GitHub Site](https://colosusbd.github.com.io)
 Welcome to the Colorus Fashion Store GitHub Profile Site!
 
-*Colorus Fashion Store is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://colorusbd.github.io).*
-Preview of Colorus Fashion Store GitHub Site-preview-png
+*You can [preview after applying this theme what it looks like](https://colorusbd.github.io).*
 
-Hi, [Colorus Fashion Store GitHub Site](https://colorusbd.github.io) here.
+Hi, 
+![Colorus Fashion Store GitHub Site](https://colorusbd.github.io) here.
 ================================
 
 ## Context for Colorus Fashion Store GitHub Site
@@ -16,7 +16,7 @@ Hi, [Colorus Fashion Store GitHub Site](https://colorusbd.github.io) here.
 - Timezone: Asia/Dhaka
 - Company: **Colorus Fashion Store**
 - Interests: photography, traveling, reading, writing, learning, programming, coding
-- About Us: Hi, this is Colorus Fashion Store is a non-pro t organization in Mirpur, Dhaka. COLORUS offers a diverse range of stylish clothing, ensuring everyone find a look that feels uniquely theirs. Our mission is to provide accessible, stylish, and budget-friendly fashion choices, enhancing well-being through attire.
+- About Us: Colorus Fashion Store is a non-pro t organization in Mirpur, Dhaka. COLORUS offers a diverse range of stylish clothing, ensuring everyone find a look that feels uniquely theirs. Our mission is to provide accessible, stylish, and budget-friendly fashion choices, enhancing well-being through attire.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -31,7 +31,7 @@ Hi, [Colorus Fashion Store GitHub Site](https://colorusbd.github.io) here.
 
 ## Introduction
 Welcome to Colorus Fashion Store GitHub Site!
-This site is used Minimal Jekyll theme for GitHub Pages. Help us make these docs or pages great!
+We used GitHub Pages for creating this site. Help us make these docs or pages great!
 
 ## About
 - **About**: A Little Introduction About Our Profile.
