@@ -4,10 +4,8 @@ layout: default
 
 [Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category) | [Photography Portfolio](https://colorusbd.github.io/photography-portfolio)
 
-![Colorus Fashion Store GitHub Site Avatar](/assets/img/colorusbd-store-avatar.webp)
+![Home](/assets/img/colorusbd-github-site-image.png)
 
-Hi, [Colorus Fashion Store GitHub Site](https://colorusbd.github.io) here.
-================================
 
 ## Context for Colorus Fashion Store GitHub Profile Site
 
@@ -82,6 +80,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Online Presence
 WordPress: [Colorus Fashion Store](https://store.colorus.com.bd)
+Website: [Colorus Fashion Store](http://store.colorus.com.bd)
+Facebook: [Colorus](https://www.facebook.com/Colorusbd)
 Twitter / X: [Colorus Fashion Store](https://www.x.com/colorusbd)
 GitHub: [Colorus Fashion Store Github](https://github.com/colorusbd)
 YouTube Channel: [Colorus Fashion Store](https://www.youtube.com/@colorusbd)
