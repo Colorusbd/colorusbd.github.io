@@ -86,7 +86,7 @@ GitHub: [Colorus Fashion Store GitHub Site](https://github.com/colorusbd)
 YouTube Channel: [Colorus](https://www.youtube.com/@colorusbd)
 
 ## Contact
-For any questions, feel free to [reach out to the team](mailto:info@store.colorus.com.bd) or [Contact](https://colorusbd.github.io/contact/).
+For any questions, feel free to [reach out to the Team](mailto:info@store.colorus.com.bd) or [Contact](https://colorusbd.github.io/contact/).
 
 ## Download
 Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project.
