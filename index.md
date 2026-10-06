@@ -94,4 +94,5 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
 github:
   [Download](https://github.com/colorusbd/colorusbd.github.io/zipball/main)
 
-This site is open source. [Improve this page](https://github.com/colorusbd/colorusbd.github.io/edit/main/index.md)
+This site is open source. [Improve this page](https://github.com/colorusbd/colorusbd.github.io/edit/main/index.md) or visit others pages below:
+[Home](./) | [About](./about) | [Contact](./contact)
