@@ -80,6 +80,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Online Presence
 WordPress: [Colorus Fashion Store](https://store.colorus.com.bd)
 Website: [Colorus Fashion Store](http://store.colorus.com.bd)
+Facebook: [Colorus](https://www.facebook.com/Colorusbd)
+Twitter / X: [Colorus Fashion Store](https://www.x.com/colorusbd)
 GitHub: [Colorus Fashion Store GitHub Site](https://github.com/colorusbd)
 YouTube Channel: [Colorus](https://www.youtube.com/@colorusbd)
 
