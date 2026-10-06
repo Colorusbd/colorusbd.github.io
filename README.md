@@ -1,13 +1,13 @@
-# [Colorus Fashion Store GitHub Page Site](https://colosusbd.github.com.io)
+# [Colorus Fashion Store GitHub Site](https://colosusbd.github.com.io)
 Welcome to the Colorus Fashion Store GitHub Profile Site!
 
 *Colorus Fashion Store is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://colorusbd.github.io).*
-![Preview of Colorus Fashion Store](preview.png)
+![Preview of Colorus Fashion Store GitHub Site](preview.png)
 
-Hi, [Colorus Fashion Store GitHub Page Site](https://colorusbd.github.io) here.
+Hi, [Colorus Fashion Store GitHub Site](https://colorusbd.github.io) here.
 ================================
 
-## Context for Colorus Fashion Store GitHub Page Site
+## Context for Colorus Fashion Store GitHub Site
 
 ## Profile
 - Name: Colorus Fashion Store
@@ -30,7 +30,7 @@ Hi, [Colorus Fashion Store GitHub Page Site](https://colorusbd.github.io) here.
 - [Download](#download)
 
 ## Introduction
-Welcome to Colorus Fashion Store GitHub Profile Site!
+Welcome to Colorus Fashion Store GitHub Site!
 This site is used Minimal Jekyll theme for GitHub Pages. Help us make these docs or pages great!
 
 ## About
@@ -47,7 +47,7 @@ To get started with the colorusbd.github.io, follow these steps:
 
 2. **Navigate to the project directory**:
    ```bash
-   cd colorus.github.io
+   cd colorusbd.github.io
    ```
 
 3. **Install dependencies**:
@@ -78,13 +78,13 @@ Please ensure your code follows our [coding standards](link-to-coding-standards)
 This project is licensed under the [MIT License](LICENSE).
 
 ## Online Presence
-WordPress: [Colorus Fashion Store](https://colorus.com.bd)
-Website: [Colorus](http://colorus.tumblr.com)
-GitHub: [Colorus Fashion Store](https://github.com/colorus)
+WordPress: [Colorus Fashion Store](https://store.colorus.com.bd)
+Website: [Colorus Fashion Store](http://store.colorus.com.bd)
+GitHub: [Colorus Fashion Store GitHub Site](https://github.com/colorusbd)
 YouTube Channel: [Colorus](https://www.youtube.com/@colorus)
 
 ## Contact
-For any questions, feel free to [reach out to the team](mailto:info@store.color.us.) or [me](https://colorusbd.github.io/contact/).
+For any questions, feel free to [reach out to the team](mailto:info@store.colorus.com.bd) or [Contact](https://colorusbd.github.io/contact/).
 
 ## Download
 Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project.
