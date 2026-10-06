@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category) | [Photography Portfolio](https://colorusbd.github.io/photography-portfolio)
+[Home](./) | [About](./about) | [Contact](./contact)
 
 ![Home](/assets/img/colorusbd-github-site-image.png)
 
