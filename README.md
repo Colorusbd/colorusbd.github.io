@@ -2,7 +2,7 @@
 Welcome to the Colorus Fashion Store GitHub Profile Site!
 
 *Colorus Fashion Store is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://colorusbd.github.io).*
-![Preview of Colorus Fashion Store GitHub Site](preview.png)
+Preview of Colorus Fashion Store GitHub Site-preview-png
 
 Hi, [Colorus Fashion Store GitHub Site](https://colorusbd.github.io) here.
 ================================
