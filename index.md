@@ -2,25 +2,24 @@
 layout: default
 ---
 
-[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category) | [Photography Portfolio](https://armandsl.github.io/photography-portfolio)
+[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category) | [Photography Portfolio](https://colorusbd.github.io/photography-portfolio)
 
-![M A Zuha Avatar](/assets/img/mazuha-avatar.png)
+![Colorus Fashion Store GitHub Site Avatar](/assets/img/colorusbd-store-avatar.webp)
 
-Hi, [Colorus Fashion Stor GitHub Site](https://colorusbd.github.io) here.
+Hi, [Colorus Fashion Store GitHub Site](https://colorusbd.github.io) here.
 ================================
 
-## Context for Colorus Fashion BD
+## Context for Colorus Fashion Store GitHub Profile Site
 
 ## Profile
 - Name: Colorus Fashion Store GitHub Site
-- Location: Dhaka, Bangladesh
+- Location: Mirpur, Dhaka, Bangladesh
 - Languages: English (Primary), Bengali (Secondary)
 - Timezone: Asia/Dhaka
-- Company: ZuhaWorld Social Impact
-- Job Title: CEO
-- Pronouns: he/him/his
+- Company: Colorus Fashion Store
+- Pronouns: they/them
 - Interests: photography, traveling, reading, writing, learning, programming, coding
-- About Me: Hi, Colorus Fashion Store is a non-pro t organization in Mirpur, Dhaka. COLORUS offers a diverse range of stylish clothing, ensuring everyone find a look that feels uniquely theirs. Our mission is to provide accessible, stylish, and budget-friendly fashion choices, enhancing well-being through attire.
+- About Us: Hi, Colorus Fashion Store is a non-profit organization in Mirpur, Dhaka. COLORUS offers a diverse range of stylish clothing, ensuring everyone find a look that feels uniquely theirs. Our mission is to provide accessible, stylish, and budget-friendly fashion choices, enhancing well-being through attire.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -34,7 +33,7 @@ Hi, [Colorus Fashion Stor GitHub Site](https://colorusbd.github.io) here.
 - [Download](#download)
 
 ## Introduction
-Welcome to Colorus Fashion Store GitHub Profile Site!
+Welcome to Colorus Fashion Store GitHub Site!
 This site is used Minimal Jekyll theme for GitHub Pages. Help us make these docs or pages great!
 
 ## About
@@ -51,7 +50,7 @@ To get started with the colorusbd.github.io, follow these steps:
 
 2. **Navigate to the project directory**:
    ```bash
-   cd armandsl.github.io
+   cd colorusbd.github.io
    ```
 
 3. **Install dependencies**:
@@ -82,17 +81,17 @@ Please ensure your code follows our [coding standards](link-to-coding-standards)
 This project is licensed under the [MIT License](LICENSE).
 
 ## Online Presence
-WordPress: [Colorus Fashion Store](https://fashion'colorus.combd)
-Twitter / X: [Colorus Fashion Store](https://www.x.com/people/Colorus)
-GitHub: [Colorus Fashion Store](https://github.com/armandsl)
+WordPress: [Colorus Fashion Store](https://store.colorus.com.bd)
+Twitter / X: [Colorus Fashion Store](https://www.x.com/colorus)
+GitHub: [Colorus Fashion Store Github](https://github.com/colorusbd)
 YouTube Channel: [Colorus Fashion Store](https://www.youtube.com/@colorus)
 
 ## Contact
-For any questions, feel free to [reach out to the team](mailto:info@storecolorus.com.bd) or [me](https://colorusbd.github.io/contact/).
+For any questions, feel free to [reach out to the team](mailto:info@store.colorus.com.bd) or [Contact](https://colorusbd.github.io/contact/).
 
 ## Download
 Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project.
 github:
-  [Download](https://github.com/armandsl/armandsl.github.io/zipball/main)
+  [Download](https://github.com/colorusbd/colorusbd.github.io/zipball/main)
 
-This site is open source. [Improve this page](https://github.com/armandsl/armandsl.github.io/edit/main/index.md)
+This site is open source. [Improve this page](https://github.com/colorusbd/colorusbd.github.io/edit/main/index.md)
