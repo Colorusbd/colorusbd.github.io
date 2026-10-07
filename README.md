@@ -1,6 +1,6 @@
 ## Hi there 👋,
 This is,
-![Avatar](https://avatars.githubusercontent.com/u/338278678?v=4&size=21) | [Colorus Fashion Store](https://github.com/colorusbd)
+[Colorus Fashion Store](https://github.com/colorusbd)
 
 Welcome to our Organization Repository. Please see the following repository, this is our Organization's Model Website. 
 Repository Name is 
