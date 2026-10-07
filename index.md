@@ -8,7 +8,8 @@ layout: default
 
 
 Welcome to the
-# Colorus Fashion Store GitHub Site
+## Colorus Fashion Store
+This is a sales site for the famous brand COLORUS in Mirpur, Dhaka. Find what you need and buy now. 
 
 ## See how to use the theme to build a website.
 
@@ -94,5 +95,4 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
 github:
   [Download](https://github.com/colorusbd/colorusbd.github.io/zipball/main)
 
-This site is open source. [Improve this page](https://github.com/colorusbd/colorusbd.github.io/edit/main/index.md) or visit others pages below:
-[Home](./) | [About](./about) | [Contact](./contact)
+This site is open source. [Improve this page](https://github.com/colorusbd/colorusbd.github.io/edit/main/index.md)
