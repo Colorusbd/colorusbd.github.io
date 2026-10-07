@@ -96,3 +96,5 @@ github:
   [Download](https://github.com/colorusbd/colorusbd.github.io/zipball/main)
 
 This site is open source. [Improve this page](https://github.com/colorusbd/colorusbd.github.io/edit/main/index.md)
+
+[Home](./) | [About](./about) | [Contact](./contact)
