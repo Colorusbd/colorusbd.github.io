@@ -4,7 +4,7 @@ title: About
 subtitle: Know About Us
 permalink: about
 ---
-[Home](./) | [About](./about) | [Contact](./contact)
+[Home](./) | [About](./about) | [Fashion Store](./fashion-store) | [Contact](./contact)
 
 ![Home](/assets/img/colorusbd-github-site-image.png)
 
@@ -26,4 +26,4 @@ We envision a world where everyone experiences the joy of expressive fashion cho
 ## Our Goals
 At Colorus Fashion Store, our goals include expanding our collection to meet diverse needs, fostering community engagement, ensuring sustainable practices, and promoting well-being through fashion. We strive to be a trusted resource for everyone seeking personal style that fits their budget.
 
-[Home](./) | [About](./about) | [Contact](./contact)
+[Home](./) | [About](./about) | [Fashion Store](./fashion-store) | [Contact](./contact)
