@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./) | [About](./about) | [Contact](./contact)
+[Home](./) | [About](./about) | [Fashion Store](./fashion-store) | [Contact](./contact)
 
 ![Home](/assets/img/colorusbd-github-site-image.png)
 
@@ -97,4 +97,4 @@ github:
 
 This site is open source. [Improve this page](https://github.com/colorusbd/colorusbd.github.io/edit/main/index.md)
 
-[Home](./) | [About](./about) | [Contact](./contact)
+[Home](./) | [About](./about) | [Fashion Store](./fashion-store) | [Contact](./contact)
