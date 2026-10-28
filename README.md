@@ -9,7 +9,7 @@ Repository Name is
 
 We used a Jekyll theme for this GitHub Pages. 
 *You can [preview after applying this theme what it looks like](https://colorusbd.github.io).*
-!Preview of Colorus Fashion Store GitHub Site
+![Preview of Colorus Fashion Store GitHub Site](preview.png)
 
 <!--
 **Provided below are details regarding our organization and instructions on utilizing the theme to build a website.**
