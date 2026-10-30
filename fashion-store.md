@@ -6,7 +6,7 @@ permalink: fashion-store
 ---
 [Home](./) | [About](./about) | [Fashion Store](./fashion-store) | [Contact](./contact)
 
-![Home](/assets/img/colorusbd-github-site-image.png)
+![Home](/assets/img/colorus-store-preview.png)
 
 
 # Colorus Fashion Store: Where Style Becomes Vibrant
@@ -35,6 +35,6 @@ permalink: fashion-store
 - [Uncategorized](https://store.colorus.com.bd/category/uncategorized/)
 - [General](https://store.colorus.com.bd/category/general/)
 
-Click below buttons to visit other pages.
+This site is open source. [Improve this page](https://github.com/colorusbd/colorusbd.github.io/edit/main/index.md)
 
 [Home](./) | [About](./about) | [Fashion Store](./fashion-store) | [Contact](./contact)
