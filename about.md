@@ -6,7 +6,7 @@ permalink: about
 ---
 [Home](./) | [About](./about) | [Fashion Store](./fashion-store) | [Contact](./contact)
 
-![About](assets/img/colorus-store-preview.png)
+![About](assets/img/about-image.png)
 
 
 ## Discover Colorus Fashion Store
