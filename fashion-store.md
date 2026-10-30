@@ -6,7 +6,7 @@ permalink: fashion-store
 ---
 [Home](./) | [About](./about) | [Fashion Store](./fashion-store) | [Contact](./contact)
 
-![Home](/assets/img/colorus-store-preview.png)
+![Home](/assets/img/fashion-store.png)
 
 
 # Colorus Fashion Store: Where Style Becomes Vibrant
