@@ -25,15 +25,17 @@ permalink: fashion-store
 - [Store Logo Concept](https://store.colorus.com.bd/store-logo-concept/)
 
 ## Media
-- [casual\-image](https://store.colorus.com.bd/wp-content/uploads/2026/10/casual-image.webp): Casual Image
-- [collection1](https://store.colorus.com.bd/wp-content/uploads/2026/10/collection1.webp): Collection1
-- [colorus\-discover\-image](https://store.colorus.com.bd/wp-content/uploads/2026/10/colorus-discover-image.webp): Colorus Discover Image
-- [about\-colorus\-passion](https://store.colorus.com.bd/wp-content/uploads/2026/10/about-colorus-passion.webp): About Colorus Passion
-- [colorus\-fashion\-store\-home\-pic](https://store.colorus.com.bd/wp-content/uploads/2026/10/colorus-fashion-store-home-pic.webp): Colorus Fashion Store Home Pic
+![Budget Friendly Products](assets/img/budget-friendly-products.webp)
+
+![Image for Colorus Fashion Store](assets/img/image-for-colorus-fashion-store.webp)
+
+![Colorus Passion Image](assets/img/colorus-passion-image.webp)
+
+![Fashion Merchandise Image](assets/img/fashion-merchandise-image.jpg)
 
 ## Categories
-- [Uncategorized](https://store.colorus.com.bd/category/uncategorized/)
-- [General](https://store.colorus.com.bd/category/general/)
+- Uncategorized
+- General
 
 This site is open source. [Improve this page](https://github.com/colorusbd/colorusbd.github.io/edit/main/index.md)
 
